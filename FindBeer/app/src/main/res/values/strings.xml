@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Find Beer</string>
+    <string name="findBeer">Найти</string>
+    <string name="chooseType">Hello World! Choose type of beer:</string>
+    <string name="brands"></string>
+    <string name="find_beer">Найти пиво</string>
+    <string-array name="beer_colors">
+        <item>Dark</item>
+        <item>Amber</item>
+        <item>Light</item>
+        <item>Brown</item>
+        <item>Special</item>
+    </string-array>
+
+</resources>

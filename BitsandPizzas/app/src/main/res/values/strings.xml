@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+
+    <string name="hello_world">Hello, world!\nThis application help you choose true pizza</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create_order">Create order</string>
+    <string name="create_activity">Create Activity sucsesfull compelited</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_order">Order Activity</string>
+    <string name="title_top">Top fragment</string>
+
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Спагетти Болоньезе</item>
+        <item>Спагетти Корбонара</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Диливири клаб</item>
+        <item>Ерш пивнушка</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pasta</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string name="open_drawer">Открывать панельку</string>
+    <string name="close_drawer">Закрыть панельку</string>
+</resources>

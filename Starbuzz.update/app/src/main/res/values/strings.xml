@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+    <string name="starbuzz_logo">Starbuzz logo</string>
+    <string name="drinks_hint">Выберите категорию товаров или блюд. На данный момент работает только Drinks</string>
+    <string name="title_activity_drink_category">title activity drink category</string>
+    <string-array name="options">
+        <item>Drink</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite drinks</string>
+</resources>
